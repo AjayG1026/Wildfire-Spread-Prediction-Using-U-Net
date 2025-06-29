@@ -67,17 +67,15 @@ Use `test.ipynb` for simplified testing on specific samples.
 
 ## 📊 Output Examples
 
-| Without Features             | With Features                           |
+| With Features             | Without Features                           |
 | ---------------------------- | --------------------------------------- |
-| ![normal](output_normal.png) | ![features](output\(WithFeatures\).png) |
+| ![normal](output_normal.png) | ![features](output.png) |
 
 ---
 
 ## 🧠 About the Model
 
-* Utilizes a convolutional neural network for image-based prediction
-* Weather and satellite data are fused for temporal-spatial prediction
-* Can be extended to full region-wide wildfire alert systems
+* Utilizes U-Net model
 
 ---
 

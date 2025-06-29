@@ -18,5 +18,5 @@ Once downloaded, **extract the dataset and place all the files in this folder (`
 
 ## ❌ Delete this File
 
-After placing the dataset in this folder, **please delete this `README.md` file** to avoid confusion when using or pushing to GitHub.
+After placing the dataset in this folder, **please delete this `README.md` file** to avoid confusion when using.
 
